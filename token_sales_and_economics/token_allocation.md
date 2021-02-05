@@ -10,4 +10,4 @@
 | Ecosystem Development | 33.00% of the total token supply |
 | Community Growth | 10.00% of the total token supply |
 
-![Points scored](..\assets\points_scored.png)
+![Points scored](./../assets/points_scored.png)

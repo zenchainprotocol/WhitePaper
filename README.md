@@ -2,7 +2,7 @@
 
 ## 
 
-![horizontal line](assets\horizontal_line.png)
+![horizontal line](./assets/horizontal_line.png)
 
 WhitePaper
 
