@@ -11,6 +11,7 @@ First, we must be clear about what DeFi is. DeFi, in its ideal form, exhibits fo
 
 DeFi has grown rapidly, going from around 600m USD in total value locked (TVL) at the start of 2020 to over 42bnUSD as of February 2021, with the most capitalized use cases being collateralized lending, constituting c.48% of the TVL, and decentralized exchange (DEXs), constituting c.34% of the TVL as of January 2021 [2]. In turn, this rise led to the 24 hour volume on a decentralized crypto asset exchange [3], overtaking that of a major centralized crypto-asset exchange [4] for the first time [5].
 
+![Token allocation](./../assets/tlv-defi.png)
 _(Total value locked in Defi - Defipulse)_
 
 Yet, as with any nascent technology, the evolution of DeFi is not without its risks. In the last year alone, DeFi has experienced more than 20 major protocol exploits, resulting in a loss of funds amounting to over 130m USD [6]. An apparent willingness of market participants to take large financial risks coupled with the possibility of any actor writing unaudited and even malicious smart contracts—precisely due to the decentralized nature of such technologies—renders the risks particularly acute. Moreover, due in part to the emergent complexity of smart contracts once composed together, there are even several instances (e.g., [7], [8], [9], [10], [11]) of audited protocols being exploited, rendering the audit process an imperfect defense against exploits.

@@ -6,4 +6,5 @@ Smart contracts cannot access data by themselves – there is no simple and intu
 
 An oracle is a mechanism for importing off-chain data into the blockchain virtual machine so that it is readable by smart contracts. This includes, for instance, prices of off-chain assets, such as ETH/USD, or off-chain information needed to verify outcomes of prediction markets, and is relied upon by various Defi protocols (e.g. [35], [36], [37], [38], [39]). Such data is not natively accessible on-chain.
 
+![Oracle](./../assets/oracle.png)
 _(ZenChain Oraclize solution - Bring off-chain data to on-chain)_

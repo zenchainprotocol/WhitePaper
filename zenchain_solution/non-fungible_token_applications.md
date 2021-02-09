@@ -16,4 +16,6 @@ A core part of our vision is that open protocols like Ethereum and interoperable
 
 With the Rent market, NTFs owners don’t need to sell their NTFs, just using them for rent. The renter can rent NTF in a short time to use in some special situations. Example: With some games, users rent NTFs as wearable items to join some special campaign, after they can pay back NTFs with a small fee, they don’t need to buy NTF at a higher price.
 
+![Apps NTFs](./../assets/ntfs-app.png)
+
 _(ZenChain apps for NTFs)_

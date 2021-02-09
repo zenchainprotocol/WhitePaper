@@ -2,17 +2,14 @@
 
 ## 
 
+![logo](./assets/ZenChain-Logo-Text-Black@2x.png)
+
 ![horizontal line](./assets/horizontal_line.png)
 
 WhitePaper
-
 2021.01.31
-
 Version 02.02.10
-
-Esther Wong
-
-ZenChain Foundation
+Esther Wong | ZenChain Foundation
 
 **Abstract:** The ZenChain Foundation is developing ZenChain, a blockchain specifically dedicated to decentralized financial (DEFI) applications and non-fungible tokens (NTFs). By focusing on the functionality of the blockchain and dedicating it specifically to DEFI and NTFs, ZenChain provides unparalleled high transaction throughput, reduced risk of errors, and intelligent feature development specifically for the fulfillment of financial services for both fungible token and non-fungible token (NTF) on the blockchain.
 
@@ -25,19 +22,19 @@ ZenChain Foundation
 * [WhitePaper.v.02.02.10](README.md)
 * [Overview](overview.md)
 * [The problem](the_problem.md)
-* [ZenChain solution](zenchain_solution\README.md)
-  * [Scalable, high-throughput Blockchain](zenchain_solution\scalable,_high-throughput_blockchain.md)
-  * [Cross-chain solutions](zenchain_solution\cross-chain_solutions.md)
-  * [Decentralized oracles](zenchain_solution\decentralized_oracles.md)
-  * [	DeFi primitives built-in](zenchain_solution\defi_primitives_built-in.md)
-  * [Non-fungible Token applications](zenchain_solution\non-fungible_token_applications.md)
-  * [NTFs X DEFI](zenchain_solution\ntfs_x_defi.md)
+* [ZenChain solution](zenchain_solution/README.md)
+  * [Scalable, high-throughput Blockchain](zenchain_solution/scalable,_high-throughput_blockchain.md)
+  * [Cross-chain solutions](zenchain_solution/cross-chain_solutions.md)
+  * [Decentralized oracles](zenchain_solution/decentralized_oracles.md)
+  * [DeFi primitives built-in](zenchain_solution/defi_primitives_built-in.md)
+  * [Non-fungible Token applications](zenchain_solution/non-fungible_token_applications.md)
+  * [NTFs X DEFI](zenchain_solution/ntfs_x_defi.md)
 * [Benefits of ZenChain](benefits_of_zenchain.md)
 * [Milestones](milestones.md)
-* [Token sales and economics](token_sales_and_economics\README.md)
-  * [Token allocation](token_sales_and_economics\token_allocation.md)
-  * [Token sales data](token_sales_and_economics\token_sales_data.md)
-  * [Token governance and use of funds](token_sales_and_economics\token_governance_and_use_of_funds.md)
-  * [ZEN token release schedule](token_sales_and_economics\zen_token_release_schedule.md)
-  * [ZEN token overview and use-cases](token_sales_and_economics\zen_token_overview_and_use-cases.md)
+* [Token sales and economics](token_sales_and_economics/README.md)
+  * [Token allocation](token_sales_and_economics/token_allocation.md)
+  * [Token sales data](token_sales_and_economics/token_sales_data.md)
+  * [Token governance and use of funds](token_sales_and_economics/token_governance_and_use_of_funds.md)
+  * [ZEN token release schedule](token_sales_and_economics/zen_token_release_schedule.md)
+  * [ZEN token overview and use-cases](token_sales_and_economics/zen_token_overview_and_use-cases.md)
 * [References](references.md)

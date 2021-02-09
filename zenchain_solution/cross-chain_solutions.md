@@ -26,8 +26,10 @@ On a high level, the transfer flow for transferring a token to the is as follows
 
 Thereafter, the ERC-20 can be used on Zen Chain&#039;s EVM as well as in the Cosmos-SDK-based application logic of the Zen Chain.
 
+![Bridge](./../assets/bridge.png)
 _(Bridge flow with ZenBridge solution)_
 
 ### Inter-blockchain Communication Protocol (IBC) {#inter-blockchain-communication-protocol-ibc}
 
 In the future, the zen chain will support cross-chain transfers using[Tendermint IBC](https://tendermint.com/ibc/).
+![IBC](./../assets/ibc.png)

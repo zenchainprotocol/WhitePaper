@@ -8,8 +8,9 @@ The initial Defi primitives set includes:
 *   Insurance
 *   Token IDO pool
 
-_(ZenChain components struct)_
 
+![ZenChainModules](./../assets/modules.png)
+_(ZenChain components struct)_
 ### Decentralized exchanges {#decentralized-exchanges}
 
 Based on the mechanism for price discovery, DEXs come in different variants, such as order book DEXs (including individual [60], [57] and batch settlement [61], [62]) and automated market makers (AMMs) (e.g., [63], [64], [65]).
@@ -26,6 +27,8 @@ Also, the proposed model
 
 *   Permits limit orders that stay in the order book until they are filled or canceled. Indeed, they can remain open over multiple batches
 *   Allows partial filling of orders in the case where order price is equal to swap price.
+
+![DEX](./../assets/dex.png)
 
 **Batch Execution**
 
@@ -126,7 +129,7 @@ As lending increases, the interest rates go down. The equations that we use for 
 
 _When no one borrows: Borrows Interest = MinRate_
 
-_When half of the lending pool is borrowed: Borrow Interest = MinRate + AdjustRate/2\._
+_When half of the lending pool is borrowed: Borrow Interest = MinRate + AdjustRate/2/._
 
 _When all of the lending pool is borrowed (Bull market): Borrow Interest will so high = MinRate + AdjustRate_
 

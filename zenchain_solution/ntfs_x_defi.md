@@ -8,6 +8,8 @@ The price of NTFs is determined by the Auction system. That means just users and
 
 ZenChain allows users to borrow up to 50% the highest auction price.
 
+![NTFs as collateral](./../assets/ntfsxdefi.png)
+
 _(Use case with using NTFs as collateral to borrow money)_
 
 ### Using Defi to mint NTF-Fi {#using-defi-to-mint-ntf-fi}
@@ -19,5 +21,7 @@ Here is some NTF-Fi will be mint with ZenChain:
 *   **Fee master:** if a user uses or holds these NTFs when using Defi, users can use DEX and another defi with fee benefit. Each Fee master type NTF has special traits: percent decrease fee, time to use, period, the scope of token …
 *   **Interest King:** if a user uses or holds these NTFs when using Defi, users can earn more LP fee in Dex (normal is 0.03%), or users can earn more lending interest, or reduce borrow interest. Each Interest King token has special traits: percent increase or decrease fee, time to use, period, scope of token …
 *   **Lucky Pass:** if a user uses or holds these NTFs when using Defi, users can have change to mint more NTF-Fi token … To be fair, ZenChain has Random Number Generator power by Oracle module.
+
+![Defi x NTFs](./../assets/ntfsxdefi2.png)
 
 _(Overview NFT and Defi connecting)_
