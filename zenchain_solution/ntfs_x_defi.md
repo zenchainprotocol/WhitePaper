@@ -1,6 +1,6 @@
-## NTFs X DEFI {#ntfs-x-defi}
+## NTFs X DEFI 
 
-### Using NTFs as collateral in Defi {#using-ntfs-as-collateral-in-defi}
+### Using NTFs as collateral in Defi 
 
 The special of ZenChain is full support cross-chain NTFs and Defi. ZenChain allow NTFs owners get more powerful with their NTFs, is just not collectible, user can stake their NTFs as collateral in lending &amp; borrowing application, and can borrow some fungible token (ERC20, BEP20, TRC20 …) to using another defi strategy.
 
@@ -12,7 +12,7 @@ ZenChain allows users to borrow up to 50% the highest auction price.
 
 _(Use case with using NTFs as collateral to borrow money)_
 
-### Using Defi to mint NTF-Fi {#using-defi-to-mint-ntf-fi}
+### Using Defi to mint NTF-Fi 
 
 NTF-Fi is a non-fungible token with defi traits and be minted by providing liquid to DEX or Lending systems. Imaging this is pear or level up items in traditional games, with the NTFs your power in Defi will be upgraded and make you have some special benefit than others that don&#039;t have any NTF-Fi. Or another word, you can imagine NTF-Fi like a loyalty card or coupon.
 

@@ -1,4 +1,4 @@
-# Benefits of ZenChain {#benefits-of-zenchain}
+# Benefits of ZenChain 
 
 *   Development of key applications for the DEFI and NTFs.
 *   High throughput for all transactions

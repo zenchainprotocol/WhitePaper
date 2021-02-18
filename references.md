@@ -1,4 +1,4 @@
-# References {#references}
+# References 
 
 [1] S. Nakamoto, “Bitcoin: A peer-to-peer electronic cash system,” 2008.
 

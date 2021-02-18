@@ -1,4 +1,4 @@
-# Overview {#overview}
+# Overview 
 
 The cryptocurrency industry is based on a simple premise: people should be fully in control of their finances. While it seems like a simple and obvious statement, the current systems are far from providing financial services that are truly under the control of the people who use them. The mission of ZenChain is to give people (and in the future, machines, and devices) seamless access to decentralized finance (DeFi) with special for non-fungible tokens (NTFs). For that purpose, we are introducing ZenChain, a dedicated blockchain specifically for decentralized finance (DeFi) with special for non-fungible tokens (NTFs).
 

@@ -1,4 +1,4 @@
-# WhitePaper.v.02.02.10 {#whitepaper-v-02-02-10}
+# WhitePaper.v.02.02.10 
 
 ## 
 

@@ -1,4 +1,4 @@
-## Token allocation {#token-allocation}
+## Token allocation 
 
 | **Token Name** | **ZEN** |
 | --- | --- |

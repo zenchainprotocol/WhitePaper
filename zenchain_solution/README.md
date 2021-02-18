@@ -1,4 +1,4 @@
-# ZenChain solution {#zenchain-solution}
+# ZenChain solution 
 
 ZenChain gives some solution to resolve this problem:
 

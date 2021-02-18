@@ -1,4 +1,4 @@
-## Token sales data {#token-sales-data}
+## Token sales data 
 
 | Token Name | ZEN |
 | --- | --- |

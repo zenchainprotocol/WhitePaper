@@ -1,4 +1,4 @@
-# Token sales and economics {#token-sales-and-economics}
+# Token sales and economics 
 
 # **TABLE OF CONTENTS**
 

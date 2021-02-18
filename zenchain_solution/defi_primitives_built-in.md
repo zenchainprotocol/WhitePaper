@@ -1,4 +1,4 @@
-## DeFi primitives built-in {#defi-primitives-built-in}
+## DeFi primitives built-in 
 
 The initial Defi primitives set includes:
 
@@ -11,7 +11,7 @@ The initial Defi primitives set includes:
 
 ![ZenChainModules](./../assets/modules.png)
 _(ZenChain components struct)_
-### Decentralized exchanges {#decentralized-exchanges}
+### Decentralized exchanges 
 
 Based on the mechanism for price discovery, DEXs come in different variants, such as order book DEXs (including individual [60], [57] and batch settlement [61], [62]) and automated market makers (AMMs) (e.g., [63], [64], [65]).
 
@@ -99,7 +99,7 @@ However, it should be noted that the result of this price equivalence is that th
 
 _(Demand and Supply)_
 
-### Lending and borrowing {#lending-and-borrowing}
+### Lending and borrowing 
 
 Lending and borrowing of on-chain assets are facilitated through protocols for loanable funds (PLFs) [76], [77], which refer to DeFi lending protocols that establish distributed ledger-based markets for loanable funds of crypto assets. In the context of a PLF, a market refers to the total supplied and total borrowed amounts of a token, where the available (i.e., non-borrowed) deposits make up a market&#039;s liquidity. Unlike peer-to-peer lending, where funds are directly lent between individual agents, in a PLF, deposits for a given token market are pooled together in a smart contract. An agent may directly borrow against the smart contract reserves, assuming the market for the token is sufficiently liquid.
 
@@ -109,13 +109,13 @@ In exchange for depositing funds, a depositor receives a derivative token reflec
 
 For lending and borrowing running we using:
 
-#### **Interest Index:** {#interest-index}
+#### **Interest Index:** 
 
 The history of each interest rate, for each money market, is captured by an Interest Rate Index, which is calculated each time an interest rate changes, resulting from lending, borrowing, repaying, liquidity assets.
 
 Each time a transaction occurs, the Interest Rate Index for the asset is updated to compound the interest since the prior index, using the interest for the period, denominated by r * t, calculated using a per-block interest rate:
 
-#### **Interest Rate Logics** {#interest-rate-logics}
+#### **Interest Rate Logics** 
 
 **Borrowing interest**
 
@@ -145,7 +145,7 @@ _When half of the lending pool is borrowed: Lending Interest = BorrowInterest*95
 
 _When all of the lending pool is borrowed (Bull market): Lending Interest will so high = BorrowInterest * 95%._
 
-### Stable coin {#stable-coin}
+### Stable coin 
 
 Non-custodial stable coins are crypto-assets that aim to be price stable relative to a target currency, commonly the USD and seek to achieve this via additional economic mechanisms. The core components of a non-custodial stablecoin are as follows [40].
 
@@ -159,7 +159,7 @@ Non-custodial stable coins are crypto-assets that aim to be price stable relativ
 
 **• Oracles.** A mechanism to import data external to the blockchain onto the blockchain, such as price-feeds.
 
-### Token IDO {#token-ido}
+### Token IDO 
 
 ZenChain Token IDO is a decentralized incubator that helps promising projects achieve their full potential by leveraging the investment power and buzz making potential of our community.
 

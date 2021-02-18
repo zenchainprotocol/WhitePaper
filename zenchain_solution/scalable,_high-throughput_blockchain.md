@@ -1,4 +1,4 @@
-## Scalable, high-throughput Blockchain {#scalable-high-throughput-blockchain}
+## Scalable, high-throughput Blockchain 
 
 ZenChain is a scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and interoperable with Ethereum. It is built using the Cosmos SDK which runs on top of the Tendermint Core consensus engine.
 

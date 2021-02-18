@@ -1,4 +1,4 @@
-# Milestones {#milestones}
+# Milestones 
 
 **2021 Q2**
 

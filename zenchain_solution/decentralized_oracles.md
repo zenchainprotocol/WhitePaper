@@ -1,4 +1,4 @@
-## Decentralized oracles {#decentralized-oracles}
+## Decentralized oracles 
 
 All blockchain platforms that operate and execute code trust in smart contracts suﬀer from the same centralizing issues that arise when needing to use external data points. Many decentralized systems rely on being able to perform basic tasks and computations that require external data feed such as asset price, inter-chain communications, real-world events, and external web API interactions.
 

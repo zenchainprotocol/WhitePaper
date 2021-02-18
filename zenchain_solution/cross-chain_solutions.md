@@ -1,15 +1,15 @@
-## Cross-chain solutions {#cross-chain-solutions}
+## Cross-chain solutions 
 
 ZenChain is two types of solution to allow token transfer across exits public blockchain:
 
 *   Bridge solution: Two way connect between ZenChain and Etherum, Polkadot, Binance SmartChain, Tron .. and more chain with ZenBridge module
 *   IBC solution: Two-way connect between ZenChain and Cosmos family blockchain using Inter-blockchain Communication protocols.
 
-### Bridge from Etherum, Polkadot, Binance smart chain, Tron, and more ... {#bridge-from-etherum-polkadot-binance-smart-chain-tron-and-more}
+### Bridge from Etherum, Polkadot, Binance smart chain, Tron, and more ... 
 
 ZenBridge is ZenChain &lt;-&gt; Etherum, Polkadot, Binance smart chain, Tron, and more chain ... bridge designed to run on the ZenChain focused on maximum design simplicity and efficiency. The bridge can transfer tokens (ETH, ERC20, DOT, TRX, TRC20, BEP20 ... ) two-way between Ethereum, Polkadot, Binance smart chain, Tron ... to a ZenChain.
 
-#### The design of Gravity Bridge {#the-design-of-gravity-bridge}
+#### The design of Gravity Bridge 
 
 Validators are fully trusted to manage the bridge. Validator powers and votes are replicated on the Ethereum, Polkadot, Tron, Binance smart chain side so trust in bridge assets depends entirely on trust in the validator set of the peg zone chain. This has known problems where the assets in the bridge exceed the market cap of the native token. We accept these known issues in exchange for the dramatic design simplification combined with acceptable decentralization this design provides.
 
@@ -29,7 +29,7 @@ Thereafter, the ERC-20 can be used on Zen Chain&#039;s EVM as well as in the Cos
 ![Bridge](./../assets/bridge.png)
 _(Bridge flow with ZenBridge solution)_
 
-### Inter-blockchain Communication Protocol (IBC) {#inter-blockchain-communication-protocol-ibc}
+### Inter-blockchain Communication Protocol (IBC) 
 
 In the future, the zen chain will support cross-chain transfers using[Tendermint IBC](https://tendermint.com/ibc/).
 ![IBC](./../assets/ibc.png)

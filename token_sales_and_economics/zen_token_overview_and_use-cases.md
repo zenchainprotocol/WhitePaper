@@ -1,4 +1,4 @@
-## ZEN token overview and use-cases {#zen-token-overview-and-use-cases}
+## ZEN token overview and use-cases 
 
 The use cases intended for ZEN include but are not limited to: protocol governance, exchange fee value capture, derivative collateralization, liquidity mining, and staking. Further details regarding each of these use cases can be found below.
 
