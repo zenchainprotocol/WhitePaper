@@ -6,7 +6,7 @@ The use cases intended for ZEN include but are not limited to: protocol governan
 
 **Exchange Fee Value Capture:** After the relayer reward distribution, the exchange fee will undergo an on-chain buy-back-and-burn event to accrue value for ZEN.
 
-**Mint, Auction, Rent NTFs:** To mint NTFs, or bid in the marketplace, users will use ZEN to bid and pay a fee.
+**Mint, Auction, Rent NFTs:** To mint NFTs, or bid in the marketplace, users will use ZEN to bid and pay a fee.
 
 **Collateral Backing for Derivatives:** ZEN will be utilized as an alternative to stable coin as margin and collateral for markets. In some futures markets, ZEN can also be used for collateral backing or insurance pool staking where stakers can earn interest on their locked tokens.
 

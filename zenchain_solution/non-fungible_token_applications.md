@@ -2,9 +2,9 @@
 
 ### Minting 
 
-With ZenChain, artist, influencer, game production, defi dapp can easily make their NTFs with blade speed.
+With ZenChain, artist, influencer, game production, defi dapp can easily make their NFTs with blade speed.
 
-Because we know the artist or influencer focuses on their amazing job. ZenChain will bring them an easy and security way to mint, manage their own NTFs with the power of blockchain.
+Because we know the artist or influencer focuses on their amazing job. ZenChain will bring them an easy and security way to mint, manage their own NFTs with the power of blockchain.
 
 ### Auction 
 
@@ -14,8 +14,8 @@ A core part of our vision is that open protocols like Ethereum and interoperable
 
 ### Rent 
 
-With the Rent market, NTFs owners don’t need to sell their NTFs, just using them for rent. The renter can rent NTF in a short time to use in some special situations. Example: With some games, users rent NTFs as wearable items to join some special campaign, after they can pay back NTFs with a small fee, they don’t need to buy NTF at a higher price.
+With the Rent market, NFTs owners don’t need to sell their NFTs, just using them for rent. The renter can rent NFT in a short time to use in some special situations. Example: With some games, users rent NFTs as wearable items to join some special campaign, after they can pay back NFTs with a small fee, they don’t need to buy NFT at a higher price.
 
-![Apps NTFs](./../assets/ntfs-app.png)
+![Apps NFTs](./../assets/NFTs-app.png)
 
-_(ZenChain apps for NTFs)_
+_(ZenChain apps for NFTs)_

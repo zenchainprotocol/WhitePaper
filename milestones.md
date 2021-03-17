@@ -12,7 +12,7 @@ Implementation of bridges to Ethereum, Tron, Binance SmartChain on Testnet
 
 Release of Incentivized Staking Competition and bridge.
 
-Release NTF mint, auction, rent application Testnet
+Release NFT mint, auction, rent application Testnet
 
 Release Dex Testnet
 
@@ -28,7 +28,7 @@ Implementation of bridges to Polkadot on Testnet
 
 Implementation of bridges to multiple blockchain networks main net
 
-Release NTF mint, auction, rent application Mainnet
+Release NFT mint, auction, rent application Mainnet
 
 Adding staking incentives.
 

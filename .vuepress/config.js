@@ -31,7 +31,7 @@ module.exports = {
                     '/zenchain_solution/decentralized_oracles.md',
                     '/zenchain_solution/defi_primitives_built-in.md',
                     '/zenchain_solution/non-fungible_token_applications.md',
-                    '/zenchain_solution/ntfs_x_defi.md'
+                    '/zenchain_solution/NFTs_x_defi.md'
                 ]
             },
             {

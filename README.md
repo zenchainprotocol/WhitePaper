@@ -11,7 +11,7 @@ WhitePaper
 Version 02.02.10
 Esther Wong | ZenChain Foundation
 
-**Abstract:** The ZenChain Foundation is developing ZenChain, a blockchain specifically dedicated to decentralized financial (DEFI) applications and non-fungible tokens (NTFs). By focusing on the functionality of the blockchain and dedicating it specifically to DEFI and NTFs, ZenChain provides unparalleled high transaction throughput, reduced risk of errors, and intelligent feature development specifically for the fulfillment of financial services for both fungible token and non-fungible token (NTF) on the blockchain.
+**Abstract:** The ZenChain Foundation is developing ZenChain, a blockchain specifically dedicated to decentralized financial (DEFI) applications and non-fungible tokens (NFTs). By focusing on the functionality of the blockchain and dedicating it specifically to DEFI and NFTs, ZenChain provides unparalleled high transaction throughput, reduced risk of errors, and intelligent feature development specifically for the fulfillment of financial services for both fungible token and non-fungible token (NFT) on the blockchain.
 
 **This Document is not a Prospectus:** This document does not constitute nor imply a prospectus of any sort. No wording contained herein should be construed as a solicitation for investment. Accordingly, this whitepaper does not pertain in any way to an offering of securities in any jurisdiction worldwide whatsoever. Rather, this whitepaper constitutes a technical description of the functionality of the Cake products and the development and distribution of ZenChain.
 
@@ -28,7 +28,7 @@ Esther Wong | ZenChain Foundation
   * [Decentralized oracles](zenchain_solution/decentralized_oracles.md)
   * [DeFi primitives built-in](zenchain_solution/defi_primitives_built-in.md)
   * [Non-fungible Token applications](zenchain_solution/non-fungible_token_applications.md)
-  * [NTFs X DEFI](zenchain_solution/ntfs_x_defi.md)
+  * [NFTs X DEFI](zenchain_solution/NFTs_x_defi.md)
 * [Benefits of ZenChain](benefits_of_zenchain.md)
 * [Milestones](milestones.md)
 * [Token sales and economics](token_sales_and_economics/README.md)

@@ -1,6 +1,6 @@
 # Benefits of ZenChain 
 
-*   Development of key applications for the DEFI and NTFs.
+*   Development of key applications for the DEFI and NFTs.
 *   High throughput for all transactions
 *   Safer, more secure blockchain specifically for decentralized finance.
 *   The rapid development of dApps for decentralized finance.
